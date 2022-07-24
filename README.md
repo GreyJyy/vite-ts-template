@@ -20,8 +20,8 @@ This template should help get you started developing with Vue 3 and TypeScript i
 6. editorconfig
 7. Eslint+Prettier
 8. 基于TypeScript的axios二次封装
-9.自动导入vue3 composition api
-10.自动导入自定义组件
+9. 自动导入vue3 composition api
+10. 自动导入自定义组件
 
 
 
